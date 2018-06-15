@@ -7,7 +7,7 @@ tags:
   - Football
   - Draft
 ---
-Following is the complete list of points scored by a player in Rooter's Football Draft game. Points will be scored in positive as well as negative based on the action of the player on the pitch.
+Following is the complete list of points scored by a player in Rooter's Football Draft game. Points will be scored in positive as well as negative based on the action of each player selected by you on the pitch.
 
 Goal scored - 50\
 Goal Assist - 25\
