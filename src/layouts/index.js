@@ -5,9 +5,13 @@ import Helmet from 'react-helmet'
 import Navbar from '../components/Navbar'
 import './all.sass'
 
+
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Rooter Help" />
+    <Helmet>
+      <link rel="shortcut icon" href="/favicon.ico" />
+    </Helmet>
     <Navbar />
     <div>{children()}</div>
   </div>
