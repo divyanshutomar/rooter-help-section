@@ -10,7 +10,7 @@ tags:
 Following is the complete list of points scored by a player in Rooter's Football Draft game. Points will be scored in positive as well as negative based on the action of each player selected by you on the pitch.
 
 Goal scored - 50\
-Goal Assist - 25\
+Goal Assist - 20\
 Penalty Won - 25\
 Shot on Target - 10\
 Shot off Target - 5\
