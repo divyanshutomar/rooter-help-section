@@ -8,9 +8,9 @@ tags:
 ---
 A new way to enjoy your Live fantasy and Prediction at Rooter. We have clubbed matches in form of contest.  
 
-* Join contest 
+* Join the contest 
 * Play the matches of the contest
-* Secure your position on this leaderboard
+* Secure your position on the leaderboard
 * Win prize money as per the rule mentioned in the App. (Tap of the prize money of the contest to see the prize money split for Prediction and LIVE fantasy)
 
 Rooter reserve the right to revert the prize money if needed. 
