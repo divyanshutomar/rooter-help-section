@@ -11,7 +11,7 @@ A new way to enjoy your Live fantasy and Prediction at Rooter. We have clubbed m
 * Join the contest 
 * Play the matches of the contest
 * Secure your position on the leaderboard
-* Win prize money as per the rule mentioned in the App. (Tap of the prize money of the contest to see the prize money split for Prediction and LIVE fantasy)
+* Win prize money as per the rule mentioned in the App. (Tap of the prize money of the contest to see the prize money split for Prediction and LIVE fantasy). Only on Android
 
 Rooter reserve the right to revert the prize money if needed. 
 
